@@ -1,0 +1,38 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+    z-index: 1000;
+    padding: 25px 0;
+  }
+  
+  .navbar.scrolled {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  .nav-menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin: 0 15px;
+  }
+  
+  .nav-links {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links:hover {
+    color: #BAB86C;
+  }
+  
