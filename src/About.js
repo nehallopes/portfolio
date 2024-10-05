@@ -43,13 +43,12 @@ const About = () => {
         <h2>About <span>Me</span></h2>
         <div className="about-card">
           <p>
-          As a passionate Computer Science graduate student at DePaul University, I am actively seeking full-time opportunities in Software Development, with a focus on both web and mobile applications. My expertise spans front-end and back-end technologies, with hands-on experience in React.js, Angular, JavaScript, HTML, CSS and Node.js. With 1.5 years at Accenture, I specialized in full-stack development using React.js, Node.js, and MongoDB, designing responsive and high-performing web applications.
+          I am a graduate student at DePaul University, pursuing an MS in Computer Science with a focus on web and mobile application development. With hands-on experience in both academic and professional settings, I have developed robust web and mobile applications using JavaScript, React.js, Swift, and Java. My technical acumen extends to backend development, database management, and cloud technologies, having implemented efficient solutions using REST APIs, MongoDB, and Firebase.
+          <p>
+          In my role as a Course Online Technician at DePaul University, I streamlined processes, optimized website performance, and resolved technical issues, maintaining a 99.9% uptime for classroom monitoring systems. Previously, at Accenture, I engineered client-focused applications and automated CI/CD pipelines, enhancing deployment efficiency by 30%.
           </p>
           <p>
-          In addition to my web development experience, I have a strong foundation in iOS and Android development, having built mobile applications with Swift and Java. My technical skills extend to automating CI/CD pipelines, improving deployment efficiency, and delivering secure, scalable solutions in industries such as healthcare, education, and consumer sectors.
-          </p>
-          <p>
-          With a deep understanding of Agile methodologies, I am adept at problem-solving, delivering high-quality solutions, and collaborating effectively with cross-functional teams. I am eager to apply my technical expertise in web and mobile application development to contribute to innovative and impactful projects that drive real-world results.          
+          I thrive on creating user-centric, responsive applications and have a passion for tackling complex problems through innovative software solutions. I am actively seeking full-time opportunities in software development, where I can leverage my skills in building high-quality, scalable applications. Let's connect!          </p>
           </p>
         </div>
         <div className="about-buttons">
