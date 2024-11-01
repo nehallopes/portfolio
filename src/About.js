@@ -43,12 +43,10 @@ const About = () => {
         <h2>About <span>Me</span></h2>
         <div className="about-card">
           <p>
-          I am a graduate student at DePaul University, pursuing an MS in Computer Science with a focus on web and mobile application development. With hands-on experience in both academic and professional settings, I have developed robust web and mobile applications using JavaScript, React.js, Swift, and Java. My technical acumen extends to backend development, database management, and cloud technologies, having implemented efficient solutions using REST APIs, MongoDB, and Firebase.
-          <p>
-          In my role as a Course Online Technician at DePaul University, I streamlined processes, optimized website performance, and resolved technical issues, maintaining a 99.9% uptime for classroom monitoring systems. Previously, at Accenture, I engineered client-focused applications and automated CI/CD pipelines, enhancing deployment efficiency by 30%.
+          I’m a passionate software developer with a master’s in Computer Science from DePaul University, dedicated to building high-quality, user-centered applications. With hands-on experience in both web and mobile development, I’ve developed scalable and efficient systems using a range of modern technologies, including React, JavaScript, and Swift. At DePaul, I contributed to ensuring the seamless functioning of our classroom monitoring platform, boosting performance and user experience through strategic optimizations. My time at Accenture further strengthened my technical foundation, where I designed responsive applications, automated CI/CD processes, and collaborated in Agile environments to meet ambitious project goals.
           </p>
           <p>
-          I thrive on creating user-centric, responsive applications and have a passion for tackling complex problems through innovative software solutions. I am actively seeking full-time opportunities in software development, where I can leverage my skills in building high-quality, scalable applications. Let's connect!          </p>
+          Driven by a commitment to continuous improvement, I excel at turning complex problems into intuitive solutions. I thrive in collaborative settings, mentoring peers, and promoting best practices in code quality, testing, and deployment. I’m excited to bring my skills in front-end and full-stack development to a forward-thinking team and contribute to impactful projects that make a difference.
           </p>
         </div>
         <div className="about-buttons">

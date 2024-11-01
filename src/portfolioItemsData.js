@@ -10,7 +10,12 @@ const portfolioItems = [
     repoLink: 'https://github.com/nehallopes/RecipeRealm-iOS-Mobile-App.git'
   },
   {
-    title: '#####',
+    title: 'Art Explorer App',
+    category: 'Android Development',
+    repoLink: 'https://github.com/yourusername/product-box-package-mockup'
+  },
+  {
+    title: 'Visual Crossing Weather App',
     category: 'Android Development',
     repoLink: 'https://github.com/yourusername/product-box-package-mockup'
   },
