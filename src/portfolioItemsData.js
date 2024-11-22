@@ -12,12 +12,12 @@ const portfolioItems = [
   {
     title: 'Art Explorer App',
     category: 'Android Development',
-    repoLink: 'https://github.com/yourusername/product-box-package-mockup'
+    repoLink: 'https://github.com/nehallopes/Art-Explorer-App'
   },
   {
     title: 'Visual Crossing Weather App',
     category: 'Android Development',
-    repoLink: 'https://github.com/yourusername/product-box-package-mockup'
+    repoLink: 'https://github.com/nehallopes/Visual-Crossing-Weather-App'
   },
   {
     title: 'TodoList: WebApp Using JavaScript',
